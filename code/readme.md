@@ -1,4 +1,4 @@
-py file to parse the top 250 coin basic description provided by the coingecko api, and return the sha256 value corresponding to the id and symbol
+py file to parse the top 250*4 coins basic description provided by the coingecko api, and return the sha256 value corresponding to the id and symbol
 
 coins_json, 4 files for the top1000 coins json
 
